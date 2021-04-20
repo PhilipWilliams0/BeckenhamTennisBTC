@@ -324,3 +324,85 @@ html, body {
     top: 1.5rem;
     box-shadow: 0 0 .2rem rgba(0, 0, 0, .25);
  }
+
+ /* Contact */
+
+ .footer {
+    background: url('https://via.placeholder.com/2000x722') no-repeat;
+    background-size: cover;
+    color: white;
+    background-color: #505962;
+ }
+ 
+ .row.outer {
+    background-color: rgba(57, 63, 70, .85);
+    padding: 1rem 2rem 3rem;
+ }
+ 
+ .footer img {
+    height: 3rem;
+    margin: 1.5rem 0;
+ }
+ 
+ .footer a,
+ .footer ul.social-media li a {
+    color: white;
+ }
+ 
+ .footer ul.social-media li a:hover {
+    color: #1EBBA3;
+ }
+ 
+ .footer h3 {
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+ }
+
+ .social-media {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;
+ }
+
+ .social-media li {
+    display: inline;
+    padding-right: .8rem;
+ }
+
+ .social-media li a {
+    color: #1EBBA3;
+    transition: all .2s ease;
+ }
+ 
+ .social-media li a:hover {
+    color: #505962;
+ }
+ 
+ /*--- Contact Form --*/
+ .form-group {
+    margin-bottom: 1.3rem;
+ }
+ 
+ .form-control {
+    background-color: #53595f;
+    border-radius: 0;
+    border: .15rem solid #666b71;
+    color: white!important;
+    font-size: 1.1rem;
+ }
+ 
+ .form-control:focus {
+    background-color: #53595f;
+    border: .15rem solid #666b71;
+ }
+ 
+ .form-group input::placeholder,
+ .form-group textarea::placeholder {
+    color: #b2b5b8!important;
+ }
+ 
+ hr.socket {
+    border-top: .2rem solid #666b71;
+    width: 100%;
+ }
