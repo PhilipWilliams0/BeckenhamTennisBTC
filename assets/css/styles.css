@@ -69,3 +69,18 @@ html, body {
     padding: .8rem 1.5rem;
     font-size: 1.0rem;
 }
+
+/* About */
+
+.divider {
+    margin: 1rem 0;
+}
+
+.row .about {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
