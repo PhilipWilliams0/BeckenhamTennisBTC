@@ -18,6 +18,10 @@ html, body {
 
 /* Navigation */
 
+.navbar-brand img {
+    height: 4rem;
+ }
+
 .navbar-brand {
     color: white;
     padding-top: .8rem;
