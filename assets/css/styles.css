@@ -97,3 +97,20 @@ html, body {
     width:100%;
     position:absolute;
 }
+
+/* Facilities */
+
+.facility span {
+    color: #1EBBA3;
+    margin-bottom: .6rem;
+ }
+
+ .facility h3 {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    padding-bottom: .4rem;
+ }
+
+ /* Team */
+
+ 
