@@ -44,10 +44,11 @@ html, body {
     margin: 0 auto 2rem;
  }
 
+
 /* Navigation */
 
 .navbar-brand img {
-    height: 4rem ;
+    height: 3rem ;
  }
 
 .navbar-brand {
@@ -137,6 +138,10 @@ html, body {
     height:100%;
     width:100%;
     position:absolute;
+}
+
+#location {
+    padding-top: 4rem;
 }
 
 /* Facilities */
