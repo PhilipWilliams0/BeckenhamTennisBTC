@@ -16,6 +16,19 @@ html, body {
     color: #1EBBA3;
  }
 
+ /*--- Nav Scrolling Offset --*/
+.offset:before {
+    content: "";
+    height: 4rem;
+    display: block;
+    margin-top: -4rem;
+ }
+ 
+ /*--- Extra Bootstrap Column Padding --*/
+ [class*="col-"] {
+    padding: 1rem;
+ }
+ 
 .heading {
     text-transform: uppercase;
     font-weight: 700;
@@ -34,7 +47,7 @@ html, body {
 /* Navigation */
 
 .navbar-brand img {
-    height: 4rem;
+    height: 4rem ;
  }
 
 .navbar-brand {
@@ -57,6 +70,15 @@ html, body {
 
 .navbar-nav .nav-link {
     padding-top: 1rem;
+}
+
+.custom-toggler-icon {
+    color: white;
+    font-size: 1.6rem;
+ }
+
+.navbar-toggle-icon {
+    color: black;
 }
 
 /* Landing Page */
@@ -151,6 +173,27 @@ html, body {
     margin-right: .75rem;
     margin-left: .75rem;
 }
+
+ul.social {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5rem;
+ }
+
+ .social li {
+    display: inline;
+    padding-right: .8rem;
+ }
+
+ .social li a {
+    color: #1EBBA3;
+    transition: all .2s ease;
+ }
+
+ .social li a:hover {
+    color: #505962;
+ }
 
 /* Gallery */
 
