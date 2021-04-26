@@ -86,7 +86,7 @@ html, body {
 .caption {
     height: 100vh;
     min-height: 500px;
-    background-image: url('https://via.placeholder.com/2000x1333');
+    background-image: url(../images/landing.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
