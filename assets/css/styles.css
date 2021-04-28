@@ -97,7 +97,7 @@ button:focus, a:focus, a.btn:focus {
 .lead-about {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
-    color: red;
+    color: blue;
 }
 
 /* Facilities */
@@ -141,6 +141,10 @@ button:focus, a:focus, a.btn:focus {
 
 
 /* Gallery */
+
+.portfolio-item {
+    padding: .1rem;
+}
 
 .portfolio-item img:hover {
     transform: scale(1.3);
