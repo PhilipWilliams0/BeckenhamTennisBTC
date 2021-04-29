@@ -20,7 +20,6 @@ ___
          1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
          2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
          3. As a First Time Visitor, I want to know which surface(s) you can play on.
-         4. As a First Time Visitor, I'm disabled and want to know about on-site facilities.
          5. As a First Time Visitor, I want to know what else does the organisation offer. 
 
       - #### Returning Visitor Goals
@@ -107,23 +106,38 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - #### First Time Visitor Goals
     1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
 
-        <h2 align="center"><img src="assets/testing/1UX.png"></h2>
         - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
         - User is presented with 3 options to progess, they can use the navigation bar, call to action button 
-
+        <h2 align="center"><img src="testing/UX/ux test 1.png"></h2>
 
     2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
+
+        <h2 align="center"><img src="testing/UX/ux test 2.png"></h2>
+
     3. As a First Time Visitor, I want to know which surface(s) you can play on.
-    4. As a First Time Visitor, I'm disabled and want to know about on-site facilities.
-    5. As a First Time Visitor, I want to know what else does the organisation offer. 
+
+        <h2 align="center"><img src="testing/UX/ux test 3.png"></h2>
+
+    4. As a First Time Visitor, I want to know what else does the organisation offer. 
+
+        <h2 align="center"><img src="testing/UX/ux test 4.png"></h2>
+
+
 
 - #### Returning Visitor Goals
     1. As a Returning Visitor, I want to find information about classes being held. 
+
+
     2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have. 
+
 
 - ##### Frequent User Goals
     1. As a Frequent User, I want to check the timetable for any updates and/or changes. 
+
+
     2. As a Frequent User, I want to check for new blogs or social media.  
+
+
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. 
 
 ### Bugs 
