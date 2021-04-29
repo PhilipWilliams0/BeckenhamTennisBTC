@@ -107,10 +107,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - Navbar not responding when in mobile format. 
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate the project's code to ensure no syntax errors. 
-
-- [W3C Markup Validator - View Results]()
-- [W3C CSS Validator - View Results]()
 
 ### Testing User Stories from User Experience (UX) Section
 
