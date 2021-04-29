@@ -15,7 +15,6 @@ ___
 
 
 ## User Experience (UX)
-
 -   ### User stories
       - #### First Time Visitor Goals
          1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
