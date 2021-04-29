@@ -96,8 +96,7 @@ button:focus, a:focus, a.btn:focus {
 
 .lead-about {
     font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    color: blue;
+    color: #505962;
 }
 
 /* Facilities */
@@ -138,6 +137,22 @@ button:focus, a:focus, a.btn:focus {
     color: #505962;
  }
 
+ /* Location */
+
+ .map-container-6{
+ overflow:hidden;
+ padding-bottom:56.25%;
+ position:relative;
+ height:0;
+ }
+
+ .map-container-6 iframe{
+ left:0;
+ top:0;
+ height:100%;
+ width:100%;
+ position:absolute;
+ }
 
 
 /* Gallery */
