@@ -100,17 +100,33 @@ ___
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/tree/main/assets/testing)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-
-### Bugs 
-
-- Navbar not responding when in mobile format. 
-
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/tree/main/assets/testing)
 
 ### Testing User Stories from User Experience (UX) Section
 
-- #### First Time Visitor Goals 
+- #### First Time Visitor Goals
+    1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
 
-- #### Returning Visitor Goals 
+        <h2 align="center"><img src="assets/testing/1UX.png"></h2>
+        - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
+        - User is presented with 3 options to progess, they can use the navigation bar, call to action button 
 
-- #### Frequent User Goals
+
+    2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
+    3. As a First Time Visitor, I want to know which surface(s) you can play on.
+    4. As a First Time Visitor, I'm disabled and want to know about on-site facilities.
+    5. As a First Time Visitor, I want to know what else does the organisation offer. 
+
+- #### Returning Visitor Goals
+    1. As a Returning Visitor, I want to find information about classes being held. 
+    2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have. 
+
+- ##### Frequent User Goals
+    1. As a Frequent User, I want to check the timetable for any updates and/or changes. 
+    2. As a Frequent User, I want to check for new blogs or social media.  
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. 
+
+### Bugs 
+
+- Navbar not responding when in mobile format.  
+- image of the park is not centered 
