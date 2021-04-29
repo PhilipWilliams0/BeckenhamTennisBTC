@@ -394,7 +394,7 @@ button:focus, a:focus, a.btn:focus {
  /* Contact */
 
 .footer {
-    background: url('https://via.placeholder.com/2000x722') no-repeat;
+    background: url(/assets/images/footer.jpg) no-repeat;
     background-size: cover;
     color: white;
     background-color: #505962;
