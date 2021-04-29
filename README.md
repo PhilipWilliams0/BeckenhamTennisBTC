@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Beckenham Tennis Club</h1> 
 
-[View the live project here.](https://github.com/PhilipWilliams0/BeckenhamTennisBTC)
+[View the live project here.](https://philipwilliams0.github.io/BeckenhamTennisBTC/)
 
 
 > `Welcome again to Beckenham Tennis Club. This is a club for everyone, the perfect place if you are starting out in tennis or if you are seasoned player, a place to play competitive tennis all year round. The website provides users with a modern, clear, intuitive experience but also gives the user appealing design and a can do to achieve greater things. You'll like Beckenham Tennis because you can easily navigate the website.  
