@@ -102,10 +102,7 @@ button:focus, a:focus, a.btn:focus {
 
 /* Location */
 
-.lead-about {
-    font-family: 'Lato', sans-serif;
-    color: #505962;
-}
+
 
 .map-container{
     overflow:hidden;
