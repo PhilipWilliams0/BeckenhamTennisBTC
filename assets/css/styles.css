@@ -102,8 +102,6 @@ button:focus, a:focus, a.btn:focus {
 
 /* Location */
 
-
-
 .map-container{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -134,9 +132,9 @@ button:focus, a:focus, a.btn:focus {
 
 /* Team */
 
-/* .card:hover {
+.card:hover {
     transform: scale(.95);
- } */
+ }
  
  .social {
     list-style: none;
