@@ -188,25 +188,26 @@ button:focus, a:focus, a.btn:focus {
     transition: transform .4s ease;
 }
 
-/* Blog */
+/* BLOG */
 
-.blogger {
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.marketing img{
     border-radius: 50%;
     transition: transform .3s ease;
- }
+}
  
- .blogger :hover {
-    transform: scale(.95);
- }
- 
- blockquote .svg-inline--fa {
+.marketing blockquote .svg-inline--fa {
     margin: 1rem;
     color: #1EBBA3;
- }
+}
  
- .blogger {
+.blogger {
     border-top: .1rem solid #1EBBA3;
- }
+}
 
 
 /* Timetable */
