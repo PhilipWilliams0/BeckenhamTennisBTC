@@ -63,7 +63,7 @@ html, body {
 .caption {
     height: 100vh;
     min-height: 500px;
-    background-image: url(/assets/images/landing.png);
+    background-image: url(../images/landing.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -394,7 +394,7 @@ button:focus, a:focus, a.btn:focus {
  /* Contact */
 
 .footer {
-    background: url(/assets/images/footer.jpg) no-repeat;
+    background: url(../images/footer.jpg) no-repeat;
     background-size: cover;
     color: white;
     background-color: #505962;
