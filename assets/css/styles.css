@@ -1,6 +1,7 @@
 /* Google font-family: 'Lato', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,700&display=swap');
 
+
 /* Font Styling */
 html, body {
     overflow-x: hidden;
@@ -101,6 +102,7 @@ button:focus, a:focus, a.btn:focus {
 }
 
 /* Location */
+
 
 .map-container{
     overflow:hidden;
@@ -473,3 +475,65 @@ button:focus, a:focus, a.btn:focus {
     width: 100%;
 }
 
+/*============= MEDIA QUERIES =============*/
+
+/* Devices under 992px (lg) */
+@media (max-width: 991.98px) {
+    .caption h1 {
+       font-size: 3.5rem;
+       letter-spacing: .2rem;
+       padding-bottom: .8rem;
+    }
+    .caption h3 {
+       font-size: 2.2rem;
+       padding-bottom: 1.7rem;
+    }
+    .caption .btn-lg {
+       padding: .7rem 1.2rem;
+       font-size: 1rem;
+    }
+    .marketing img {
+       max-width: 50%;
+       margin: 0 auto;
+    }
+ }
+ 
+ /* Devices under 768px (md) */
+ @media (max-width: 767.98px) {
+    .caption h1 {
+       font-size: 2.7rem;
+       letter-spacing: .15rem;
+       padding-bottom: .5rem;
+    }
+    .caption h3 {
+       font-size: 1.7rem;
+       padding-bottom: 1.2rem;
+    }
+    .caption .btn-lg {
+       padding: .6rem 1.1rem;
+    }
+    #features h1 {
+       font-size: 2rem;
+    }
+
+    .top-scroll {
+       display: none!important;
+    }
+ }
+ 
+ /* Devices under 576px (sm) */
+ @media (max-width: 575.98px) {
+    .caption h1 {
+       font-size: 1.9rem;
+       letter-spacing: .1rem;
+       padding-bottom: .4rem;
+    }
+    .caption h3 {
+       font-size: 1.2rem;
+       padding-bottom: 1rem;
+    }
+    .caption .btn-lg {
+       padding: .4rem .9rem;
+       font-size: .9rem;
+    }
+ }
