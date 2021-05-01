@@ -98,8 +98,14 @@ ___
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/tree/main/assets/testing)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/tree/main/assets/testing)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+    <h2 align="center"><img src="assets/testing/Code/index Nu Html Checker.png"></h2>
+
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+
+    <h2 align="center"><img src="assets/testing/Code/styles CSS Validator.png"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -108,19 +114,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
         - User is presented with 3 options to progess, they can use the navigation bar, call to action button 
-        <h2 align="center"><img src="testing/UX/ux test 1.png"></h2>
+        <h2 align="center"><img src="assets/testing/UX/ux test 1.png"></h2>
 
     2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
 
-        <h2 align="center"><img src="testing/UX/ux test 2.png"></h2>
+        <h2 align="center"><img src="assets/testing/UX/ux test 2.png"></h2>
 
     3. As a First Time Visitor, I want to know which surface(s) you can play on.
 
-        <h2 align="center"><img src="testing/UX/ux test 3.png"></h2>
+        <h2 align="center"><img src="assets/testing/UX/ux test 3.png"></h2>
 
     4. As a First Time Visitor, I want to know what else does the organisation offer. 
 
-        <h2 align="center"><img src="testing/UX/ux test 4.png"></h2>
+        <h2 align="center"><img src="assets/testing/UX/ux test 4.png"></h2>
 
 
 
