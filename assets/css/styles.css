@@ -536,4 +536,7 @@ button:focus, a:focus, a.btn:focus {
        padding: .4rem .9rem;
        font-size: .9rem;
     }
+    .navbar-brand img {
+        height: 2.5rem;
+    }
  }
