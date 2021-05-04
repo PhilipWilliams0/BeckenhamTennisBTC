@@ -134,10 +134,6 @@ html, body {
 
 /* Team */
 
-.card:hover {
-    transform: scale(.95);
- }
- 
  .social {
     list-style: none;
     padding: 0;
