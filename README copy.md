@@ -1,69 +1,71 @@
-<h1 align="center">Welcome to Beckenham Tennis Club</h1> 
+<h1 align="center">Welcome to Beckenham Tennis Club</h1>
 
 [View the live project here.](https://philipwilliams0.github.io/BeckenhamTennisBTC/)
-
 
 > `Welcome again to Beckenham Tennis Club. This is a club for everyone, the perfect place if you are starting out in tennis or if you are seasoned player, a place to play competitive tennis all year round. The website provides users with a modern, clear, intuitive experience but also gives the user appealing design and a can do to achieve greater things. You'll like Beckenham Tennis because you can easily navigate the website.  
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 ## Table of Contents
+
 ___
 
 - [User Experience (UX)](#User-Experience-(UX))
-   - [User Stories](#user-stories)
-
+  - [User Stories](#user-stories)
 
 ## User Experience (UX)
--   ### User stories
-      - #### First Time Visitor Goals
-         1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
+
+- ### User stories
+  - #### First Time Visitor Goals
+
+         1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation.
          2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
          3. As a First Time Visitor, I want to know which surface(s) you can play on.
-         5. As a First Time Visitor, I want to know what else does the organisation offer. 
+         5. As a First Time Visitor, I want to know what else does the organisation offer.
 
-      - #### Returning Visitor Goals
-         1. As a Returning Visitor, I want to find information about classes being held. 
-         2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have. 
+  - #### Returning Visitor Goals
 
-      - ##### Frequent User Goals
-         1. As a Frequent User, I want to check the timetable for any updates and/or changes. 
+         1. As a Returning Visitor, I want to find information about classes being held.
+         2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have.
+
+  - ##### Frequent User Goals
+
+         1. As a Frequent User, I want to check the timetable for any updates and/or changes.
          2. As a Frequent User, I want to check for new blogs or social media.  
-         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. 
+         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes.
 
-   - ###  Design 
-     
-      - #### Color Scheme 
-         -   The three main colours used are green, grey and white. 
-   
-      - #### Typography
-         - I’ve chosen [Google font Lato](https://fonts.google.com/specimen/Lato?preview.text_type=custom#about) serious but friendly and a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. I used classical proportions (evident in the uppercase) to give the letterforms familiar harmony and elegance. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.
-    
-      - #### Imagery
-         - Imagery is essential and needed to be modern but appeal to all users with an engaging can do feel.   
+- ###  Design
 
-   -   ### Wireframes
-         - Desktop Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/Desktop%20Wireframe%20BTC.pdf)
+  - #### Color Scheme
+    - The three main colours used are green, grey and white.
 
-         - Tablet Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/tablet%20Wireframe%20BTC.pdf)
+  - #### Typography
+    - I’ve chosen [Google font Lato](https://fonts.google.com/specimen/Lato?preview.text_type=custom#about) serious but friendly and a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. I used classical proportions (evident in the uppercase) to give the letterforms familiar harmony and elegance. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.
 
-         - Mobile Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/mobile%20Wireframe%20BTC.pdf)
+  - #### Imagery
+    - Imagery is essential and needed to be modern but appeal to all users with an engaging can do feel.
 
-   - ### Features 
+- ### Wireframes
+  - Desktop Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/Desktop%20Wireframe%20BTC.pdf)
 
-      -   Responsive on all device sizes
+  - Tablet Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/tablet%20Wireframe%20BTC.pdf)
 
-      -   Interactive elements
+  - Mobile Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/mobile%20Wireframe%20BTC.pdf)
 
-      -   Login page for existing users
+- ### Features
 
+  - Responsive on all device sizes
+
+  - Interactive elements
+
+  - Login page for existing users
 
 ## Technologies Used
 
 ### Languages Used
 
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
 
@@ -86,10 +88,10 @@ ___
 
 ### Languages Used
 
-   - [HTML5](https://en.wikipedia.org/wiki/HTML5)
-   - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used 
+### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 5.0.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
@@ -98,22 +100,22 @@ ___
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
     <h2 align="center"><img src="assets/testing/Code/index Nu Html Checker.png"></h2>
 
-
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
     <h2 align="center"><img src="assets/testing/Code/styles CSS Validator.png"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
 - #### First Time Visitor Goals
-    1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation. 
+
+    1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation.
 
         - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
-        - User is presented with 3 options to progess, they can use the navigation bar, call to action button 
+        - User is presented with 3 options to progess, they can use the navigation bar, call to action button
         <h2 align="center"><img src="assets/testing/UX/ux1.png"></h2>
 
     2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
@@ -124,23 +126,23 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
         <h2 align="center"><img src="assets/testing/UX/ux3.png"></h2>
 
-    4. As a First Time Visitor, I want to know what else does the organisation offer. 
+    4. As a First Time Visitor, I want to know what else does the organisation offer.
 
         <h2 align="center"><img src="assets/testing/UX/ux4.png"></h2>>
 
-
-
 - #### Returning Visitor Goals
-    1. As a Returning Visitor, I want to find information about classes being held. 
+
+    1. As a Returning Visitor, I want to find information about classes being held.
 
         <h2 align="center"><img src="assets/testing/UX/ux5.png"></h2>
 
-    2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have. 
+    2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have.
 
         <h2 align="center"><img src="assets/testing/UX/ux6.png"></h2>
 
 - ##### Frequent User Goals
-    1. As a Frequent User, I want to check the timetable for any updates and/or changes. 
+
+    1. As a Frequent User, I want to check the timetable for any updates and/or changes.
 
         <h2 align="center"><img src="assets/testing/UX/ux7.png"></h2>
 
@@ -148,22 +150,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
         <h2 align="center"><img src="assets/testing/UX/ux8.png"></h2>
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes. 
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes.
 
         <h2 align="center"><img src="assets/testing/UX/ux9.png"></h2>
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+- A large amount of testing was done to ensure that all pages were linking correctly.
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+- On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+  - A white gap can be seen to the right of the footer and navigation bar as a result.
+- On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 
 ## Deployment
 
@@ -197,7 +199,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 7. Press Enter. Your local clone will be created.
@@ -217,24 +219,24 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+- The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
 ### Content
 
--   All content was written by the developer.
+- All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
--   All Images were created by the developer.
+- All Images were created by the developer.
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+- My Mentor for continuous helpful feedback.
 
--   Tutor support at Code Institute for their support.
+- Tutor support at Code Institute for their support.
