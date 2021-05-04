@@ -90,7 +90,7 @@ html, body {
 }
 
 /*-- Remove Button Outline --*/
-button:focus, a:focus, a.btn:focus {
+/* button:focus, a:focus, a.btn:focus {
     outline: 0;
     -webkit-appearance: none;
     box-shadow: none;
@@ -99,7 +99,7 @@ button:focus, a:focus, a.btn:focus {
  button, a, a.btn,
  .svg-inline--fa {
     transition: all .6s ease;
-}
+} */
 
 /* Location */
 
@@ -209,6 +209,70 @@ button:focus, a:focus, a.btn:focus {
  
 .blogger {
     border-top: .1rem solid #1EBBA3;
+}
+
+/* Newsletter */
+
+.bbb-wrapper {
+    background-color: #181e2d3a
+}
+
+.bbb-wrapper {
+    margin-bottom: 5rem;
+}
+
+.fl-wrap {
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.bbb-wrapper .subcribe-form form {
+    max-width: 450px;
+    margin: 15px auto;
+    position: relative
+}
+
+.bbb-wrapper .subcribe-form #subscribe input {
+    width: 100%;
+    height: 48px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 1px;
+    padding: 0 30px;
+    box-shadow: 0px 0px 0px 7px rgba(255, 255, 255, 0.2)
+}
+
+.bbb-wrapper .subcribe-form #subscribe #subscribe-button {
+    height: 38px;
+    padding: 0 30px;
+    border-radius: 3px;
+    border: none;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+    font-size: 11px;
+    color: #fff;
+    cursor: pointer
+}
+
+.subscribe-message {
+    color: #fff;
+    float: left;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: 500;
+    line-height: 19px
+}
+
+.color-bg {
+    background: #1EBBA3
+}
+
+#subscribe-button:hover {
+    background: #666b71;
+    color: #fff
 }
 
 
@@ -333,9 +397,8 @@ button:focus, a:focus, a.btn:focus {
 
  /* Blog */
 
- #blog-carousel {
-    max-width: 1200px;
-    margin: 0 auto;
+ #blog {
+    margin-top: 3rem;
  }
  
  .blog img {
@@ -357,6 +420,10 @@ button:focus, a:focus, a.btn:focus {
  }
 
  /* Pricing */
+
+ #pricing {
+     margin-bottom: 5rem;
+ }
 
  .pricing-column {
     background-color: white;
