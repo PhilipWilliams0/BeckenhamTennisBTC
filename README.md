@@ -95,9 +95,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-    <h2 align="center"><img src="assets/testing/Code/index Nu Html Checker.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/index html validator.png"></h2>
 
-    <h2 align="center"><img src="assets/testing/Code/login Nu Html Checker.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/login html validator.png"></h2>
 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
