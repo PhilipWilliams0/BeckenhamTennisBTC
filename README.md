@@ -13,21 +13,21 @@ ___
 - ### User stories
   - #### First Time Visitor Goals
 
-         1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation.
-         2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
-         3. As a First Time Visitor, I want to know which surface(s) you can play on.
-         5. As a First Time Visitor, I want to know what else does the organisation offer.
+        1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation.
+        2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
+        3. As a First Time Visitor, I want to know which surface(s) you can play on.
+        5. As a First Time Visitor, I want to know what else does the organisation offer.
 
   - #### Returning Visitor Goals
 
-         1. As a Returning Visitor, I want to find information about classes being held.
-         2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have.
+        1. As a Returning Visitor, I want to find information about classes being held.
+        2. As a Returning Visitor, I want to find the best way to contact the site owner with any questions I may have.
 
   - ##### Frequent User Goals
 
-         1. As a Frequent User, I want to check the timetable for any updates and/or changes.
-         2. As a Frequent User, I want to check for new blogs or social media.  
-         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes.
+        1. As a Frequent User, I want to check the timetable for any updates and/or changes.
+        2. As a Frequent User, I want to check for new blogs or social media.  
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes.
 
 - ###  Design
 
