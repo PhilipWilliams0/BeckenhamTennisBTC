@@ -95,15 +95,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-    <h2 align="center"><img src="assets/testing/Code/index html validator.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/indexhtmlvalidator.png"></h2>
 
-    <h2 align="center"><img src="assets/testing/Code/login html validator.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/loginhtmlvalidator.png"></h2>
 
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-    <h2 align="center"><img src="assets/testing/Code/styles CSS Validator.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/stylescssvalidator.png"></h2>
 
-    <h2 align="center"><img src="assets/testing/Code/login CSS Validator.png"></h2>
+    <h2 align="center"><img src="assets/testing/Code/logincssvalidator.png"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
