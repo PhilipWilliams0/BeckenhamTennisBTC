@@ -41,11 +41,11 @@ ___
     - Imagery is essential and needed to be modern but appeal to all users with an engaging can do feel.
 
 - ### Wireframes
-  - Desktop Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/Desktop%20Wireframe%20BTC.pdf)
+  - Desktop Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/desktopwireframe.pdf)
 
-  - Tablet Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/tablet%20Wireframe%20BTC.pdf)
+  - Tablet Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/tabletwireframe.pdf)
 
-  - Mobile Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/mobile%20Wireframe%20BTC.pdf)
+  - Mobile Wireframe - [View](https://github.com/PhilipWilliams0/BeckenhamTennisBTC/blob/main/assets/wireframe/mobilewireframe.pdf)
 
 - ### Features
 
@@ -161,7 +161,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone SE, iPhone 8 & iPhoneX.
 - A large amount of testing was done to ensure that all pages were linking correctly.
-- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+- Slack Community, Friends and Family Members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
@@ -231,14 +231,16 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- All content was written by the developer.
+- All content was written by the developer with help from [Drew Ryan](https://www.youtube.com/channel/UCtXGz0MBuqZUC8rmGddc07Q) on the landing page.
 
 ### Media
 
-- All Images were created by the developer.
+- All Images were created by using unsplash. 
 
 ### Acknowledgements
 
-- My Mentor Gerry McBride for continuous helpful feedback.
+- My Mentor Gerry McBride for continuous helpful feedback even at short notice. 
 
-- Tutor support at Code Institute for their support.
+- I want to thank the Slack community, tutors, family and friends as well.
+
+[Back to Top](#User-Experience-(UX))
