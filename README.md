@@ -110,12 +110,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - #### First Time Visitor Goals
 
     1. As a First Time Visitor, I want to understand the website quickly and learn more detail about the organisation.
+
         - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
         - User is presented with 3 options to progess, they can use the navigation bar, call to action button or scroll. 
 
         <h2 align="center"><img src="assets/testing/UX/ux1.png"></h2>
 
     2. As a First Time Visitor, I want to know who the pro tennis coaching staff are.  
+        
         - The site has been designed to provide user(s) with as much information but from research 
 
         <h2 align="center"><img src="assets/testing/UX/ux2.png"></h2>
@@ -206,12 +208,14 @@ git clone https://github.com/PhilipWilliams0/BeckenhamTennisBTC
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/PhilipWilliams0/BeckenhamTennisBTC
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
+$ git clone https://github.com/PhilipWilliams0/BeckenhamTennisBTC   
+> Cloning into 'BeckenhamTennisBTC'...
+> remote: Enumerating objects: 508, done.
+> remote: Counting objects: 100% (508/508), done.
+> remote: Compressing objects: 100% (369/369), done.
+> remote: Total 508 (delta 181), reused 455 (delta 131), pack-reused 0
+> Receiving objects: 100% (508/508), 27.82 MiB | 7.48 MiB/s, done.
+>Resolving deltas: 100% (181/181), done.
 ```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
