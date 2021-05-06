@@ -90,18 +90,6 @@ html, body {
     font-size: 1.0rem;
 }
 
-/*-- Remove Button Outline --*/
-/* button:focus, a:focus, a.btn:focus {
-    outline: 0;
-    -webkit-appearance: none;
-    box-shadow: none;
-    transition: all .6s ease;
-}
- button, a, a.btn,
- .svg-inline--fa {
-    transition: all .6s ease;
-} */
-
 /* Location */
 
 

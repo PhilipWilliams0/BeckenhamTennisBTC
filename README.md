@@ -33,6 +33,10 @@ ___
 
   - #### Color Scheme
     - The three main colours used are green, grey and white.
+    - ![#1EBBA3](https://via.placeholder.com/15/1EBBA3/000000?text=+) `#1EBBA3`
+    - ![#505962](https://via.placeholder.com/15/505962/000000?text=+) `#505962`
+    - ![#fff](https://via.placeholder.com/15/fff/000000?text=+) `#fff`
+   
 
   - #### Typography
     - I’ve chosen [Google font Lato](https://fonts.google.com/specimen/Lato?preview.text_type=custom#about) serious but friendly and a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. I used classical proportions (evident in the uppercase) to give the letterforms familiar harmony and elegance. The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness.
@@ -165,10 +169,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 ### Known Bugs
 
-- On some mobile devices the hamburger toggle is pushed underneath the logo - Fixed by reducing the navbar-brand logo to 2.5rem on smaller devices
-- Meet the Team Cards will be out of alignment on tablet screens
-- buttons under timetable section go across full screen on phone devices. 
-- Newsletter email field losses left/right border on phone devices
+- On some mobile devices the hamburger toggle is pushed underneath the logo - fixed by reducing the navbar-brand logo to 2.5rem on smaller devices. 
+- Meet the Team Cards will be out of alignment on tablet screens - Unfixed. 
+- buttons under timetable section go across full screen on phone devices - Unfixed. 
+- Newsletter email field losses left/right border on phone devices - Unfixed. 
 
 ## Deployment
 
