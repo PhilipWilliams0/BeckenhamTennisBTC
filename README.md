@@ -111,7 +111,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
         - User is greeted with a visually engaging ariel view of the complex, along with a navbar, caption and a call to action button.  
         - User is presented with 3 options to progress, they can use the navigation bar, call to action button or scroll. 
-          - Within the location section it was important to highlight the surrounding natural beauty of the park. It is a place of natural beauty within a largely built up area.  
+        - Within the location section it was important to highlight the surrounding natural beauty of the park. It is a place of natural beauty within a largely built up area.  
         - This would attract families and people from all walks of life. The club would undoubtedly benefit from this type of footfall.
         - Alongside the club I wanted 
 
@@ -129,9 +129,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
         - Within the facilities section it includes a description of the types of surfaces players have access to.
         - It also provided how we cater for all levels of players including bespoke offers for those who want it.
        
-    
-
-            <h2 align="center"><img src="assets/testing/UX/ux3.png"></h2>
+        <h2 align="center"><img src="assets/testing/UX/ux3.png"></h2>
 
     4. As a First Time Visitor, I want to know what else does the organisation offer.
 
@@ -140,7 +138,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
          - The section outlined the nutrition benefits of the clubhouse to support those in training or visiting for pleasure.
 
       
-        <h2 align="center"><img src="assets/testing/UX/ux4.png"></h2>>
+        <h2 align="center"><img src="assets/testing/UX/ux4.png"></h2>
 
 - #### Returning Visitor Goals
 
@@ -190,7 +188,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 ### Known Bugs
 
-- The hamburger toggle on the mobile device has been pushed underneath the logo within the navbar.  This was fixed by reducing the navbar-brand logo size.
+- The hamburger toggle on mobile device has been pushed underneath the logo within the navbar.  This was fixed by reducing the navbar-brand logo size.
 - Meet the Team Cards will be out of alignment on the tablet screens - Unfixed. 
 - Buttons under the timetable section go across full screen on phone devices - Unfixed. 
 - Newsletter email field losses left/right border on the phone devices - Unfixed. 
